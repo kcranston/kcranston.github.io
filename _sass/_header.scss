@@ -23,6 +23,10 @@
     &:visited {
         color: #ffffff;
     }
+    &:hover {
+        color: #ffffff;
+        text-decoration: underline;
+    }
 }
 
 .site-header .wrapper {
@@ -76,7 +80,7 @@
 	letter-spacing: 0;
 	line-height: 1.2em;
 	padding: 4px 10px;
-color: #522d80;
+  color: #522d80;
 
 }
 
