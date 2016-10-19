@@ -1,0 +1,17 @@
+- title: "About"
+  href: "/"
+
+- title: "Research"
+  href: "/research/"
+
+- title: "Teaching"
+  href: "/teaching/"
+
+- title: "Talks"
+  href: "/talks/"
+  
+- title: "Blog"
+  href: "/blog/"
+
+- title: "CV"
+  href: "/cv/"
