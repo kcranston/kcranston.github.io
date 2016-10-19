@@ -30,7 +30,3 @@ So, the *Small Teaching* practice is to frequently ask students about what they 
 Putting this in the perspective of a Carpentry workshop, the exercises throughout the lessons help with retrieving the preceding concepts, as does the use of minute cards to review useful and confusing concepts at the end of a session. Also, any time we can quiz students when we are about to revisit a concept from a previous lessons helps ('was there something we did in the previous bash lesson that we can use in for this git example?'), particularly since many of our workshops are four distinct lessons, often taught by different instructors.    
 
 Finally, we do need to make sure that we don't cram so much information into a lesson that we don't have time for these knowledge retrieval exercises ('if I skip this exercise, I can fit it a session on grep!').
-
-{% if page.comments %}
-    {% include disqus.html %}                          
-{% endif %}
