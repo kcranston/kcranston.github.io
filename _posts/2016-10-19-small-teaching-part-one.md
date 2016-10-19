@@ -3,6 +3,7 @@ layout: post
 title:  "Small Teaching, Part One"
 date:   2016-10-19
 categories: teaching carpentries
+comments: true
 ---
 This is the first in a series of posts about the book [Small Teaching: Everyday
 Lessons from the Science of
@@ -24,3 +25,7 @@ The book is organized into three sections (Knowledge, Understanding, Inspiration
 3. Guidance for creating your own small teaching strategies.
 
 I've watched several colleagues try the new '[flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom)' model, and the general consensus seems to be that they and their students like the outcomes but that the amount of work required is enormous and the effort probably outweighs the benefits. So, I am interested in the idea of small changes that seem more likely to be adopted by a larger number of instructors in more courses (and may have equally good outcomes?).
+
+{% if page.comments %}
+    {% include disqus.html %}                          
+{% endif %}
