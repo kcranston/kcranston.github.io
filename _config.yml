@@ -9,6 +9,7 @@ url: "http://kcranston.github.io" # the base hostname & protocol for your site
 twitter_username: kcranstn
 github_username:  kcranston
 orcid: 0000-0002-4798-9499
+disqus_shortname: https-kcranston-github-io
 
 # Build settings
 markdown: kramdown
