@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-I am interested in phylogenetic methods and phyloinformatics. How do we build evolutionary trees from sequence data, and how do we synthesize and share information about the tree of life with the broader community?
+I am interested in phylogenetic methods and phyloinformatics. How do we build evolutionary trees from sequence data, and how do we synthesize information about the tree of life and and share this with the broader community?
 
 ## Peer-reviewed publications
 
