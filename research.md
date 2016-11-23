@@ -12,7 +12,7 @@ McTavish, E. J., Hinchliff, C. E., Allman, J. F., Brown, J. W., Cranston, K. A.,
 
 Hinchliff, C. E., Smith, S. A., Allman, J. F., Burleigh, J. G., Chaudhary, R., Coghill, L. M., ... & Cranston, K. A. (2015). Synthesis of phylogeny and taxonomy into a comprehensive tree of life. Proceedings of the National Academy of Sciences, 112(41), 12764-12769. [doi:10.1073/pnas.1423041112](http://dx.doi.org/10.1073/pnas.1423041112). In the Altmetrics Top 100 for 2015 and in top 5% overall;  [https://www.altmetric.com/details/4529894]()
 
-Ksepka, D.T., Parham, J.F., Allman, J.F., Benton, M.J., Carrano, M.T., Cranston, K.A., ... & Warnock, R.C.M. (2015) The Fossil Calibration Database, A New Resource for Divergence Dating. Systematic Biology}. [doi:10.1093/sysbio/syv025](http://dx.doi.org/10.1093/sysbio/syv025)
+Ksepka, D.T., Parham, J.F., Allman, J.F., Benton, M.J., Carrano, M.T., Cranston, K.A., ... & Warnock, R.C.M. (2015) The Fossil Calibration Database, A New Resource for Divergence Dating. Systematic Biology. [doi:10.1093/sysbio/syv025](http://dx.doi.org/10.1093/sysbio/syv025)
 
 Teal, T. K., Cranston, K. A., Lapp, H., White, E., Wilson, G., Ram, K., Pawlik, A. (2015) Data Carpentry: Workshops to Increase Data Literacy for Researchers. International Journal of Digital Curation. 10(1):135-143. [doi:10.2218/ijdc.v10i1.351](http://dx.doi.org/10.2218/ijdc.v10i1.351)
 
