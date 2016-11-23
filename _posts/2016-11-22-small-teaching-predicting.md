@@ -43,8 +43,8 @@ change if we make this change to our matplotlib code?'), or when introducing a
 new concept ('how can you imagine using version control in your current work?').
 
 No matter the way you use prediction, you want to make sure that the learners
-get the right answer soon after the prediction (not much of a concern in a
-Carpentry-length lesson), making sure you provide time for students to ponder
+get the right answer fairly soon (not much of a concern in a
+Carpentry-length lesson), that you provide time for students to ponder
 (it is tempting, when rushing through a lesson, to not wait long enough), and
-to build on existing knowledge (not asking for predictions before you have
+that you build on existing knowledge (not asking for predictions before you have
 provided enough context).
