@@ -4,9 +4,13 @@ title: Research
 permalink: /research/
 ---
 
-I am interested in phylogenetic methods and phyloinformatics. How do we build evolutionary trees from sequence data, and how do we synthesize information about the tree of life and and share this with the broader community?
+I am interested in phylogenetic methods and phyloinformatics. How do we build evolutionary trees from sequence data, and how do we synthesize information about the tree of life and and share this with the broader community? I also have several papers on open science, scientific collaboration, and teaching computational skills.  
 
 ## Peer-reviewed publications
+
+Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., \& Teal, T. K. (2017). Good enough practices in scientific computing. PLoS Comput Biol 13(6): e1005510. [doi:10.1371/journal.pcbi.1005510](https://doi.org/10.1371/journal.pcbi.1005510)
+
+Rees, J., & Cranston, K. (2017). Automated assembly of a reference taxonomy for phylogenetic data synthesis. Biodiversity Data Journal, 5, e12581. [doi:10.3897/BDJ.5.e12581](https://doi.org/10.3897/BDJ.5.e12581)
 
 McTavish, E. J., Hinchliff, C. E., Allman, J. F., Brown, J. W., Cranston, K. A., Holder, M. T., ... & Smith, S. A. (2015). Phylesystem: a git-based data store for community curated phylogenetic estimates. Bioinformatics, btv276. [doi:10.1093/bioinformatics/btv276](http://dx.doi.org/10.1093/bioinformatics/btv276).
 
@@ -44,8 +48,6 @@ Cranston, K., & Rannala, B. (2005). Closing the gap between rocks and clocks. He
 ## Pre-prints and other non-peer-reviewed
 
 (published preprints not shown)
-
-Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2016). Good Enough Practices in Scientific Computing. [arXiv:1609.00037](http://arxiv.org/abs/1609.00037)
 
 Katz, D.S., Choi, S.T., Wilkins-Diehr, N., Hong, N.C., Venters, C.C., ... & Littauer, R. Report on the Second Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE2). [arXiv:1507.01715](http://arxiv.org/abs/1507.01715)
 
