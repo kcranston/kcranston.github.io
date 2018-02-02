@@ -4,9 +4,17 @@ title: Research
 permalink: /research/
 ---
 
-I am interested in phylogenetic methods and phyloinformatics. How do we build evolutionary trees from sequence data, and how do we synthesize information about the tree of life and and share this with the broader community? I also have several papers on open science, scientific collaboration, and teaching computational skills.  
+I am interested in phylogenetic methods and phyloinformatics. How do we build 
+evolutionary trees from sequence data and how do we synthesize and share 
+information about the tree of life? More broadly, I am interested in the 
+standards, tools, training, and communities that we need in order to make 
+biodiversity data easily and widely available. 
 
 ## Peer-reviewed publications
+
+McTavish, E. J., Drew, B. T., Redelings, B., & Cranston, K. A. (2017). How and Why to Build a Unified Tree of Life. BioEssays, 39(11). https://dx.doi.org/10.1002/bies.201700114
+
+Stoltzfus, A., Rosenberg, M., Lapp, H., Budd, A., Cranston, K., Pontelli, E., ... & Vos, R. A. (2017). Community and Code: Nine Lessons from Nine NESCent Hackathons. F1000Research, 6. http://dx.doi.org/10.12688/f1000research.11429.1
 
 Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., \& Teal, T. K. (2017). Good enough practices in scientific computing. PLoS Comput Biol 13(6): e1005510. [doi:10.1371/journal.pcbi.1005510](https://doi.org/10.1371/journal.pcbi.1005510)
 
