@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-I am interested in phylogenetic methods and phyloinformatics. How do we build 
+My background is phylogenetic methods and phyloinformatics. How do we build 
 evolutionary trees from sequence data and how do we synthesize and share 
 information about the tree of life? More broadly, I am interested in the 
 standards, tools, training, and communities that we need in order to make 
@@ -22,7 +22,7 @@ Rees, J., & Cranston, K. (2017). Automated assembly of a reference taxonomy for 
 
 McTavish, E. J., Hinchliff, C. E., Allman, J. F., Brown, J. W., Cranston, K. A., Holder, M. T., ... & Smith, S. A. (2015). Phylesystem: a git-based data store for community curated phylogenetic estimates. Bioinformatics, btv276. [doi:10.1093/bioinformatics/btv276](http://dx.doi.org/10.1093/bioinformatics/btv276).
 
-Hinchliff, C. E., Smith, S. A., Allman, J. F., Burleigh, J. G., Chaudhary, R., Coghill, L. M., ... & Cranston, K. A. (2015). Synthesis of phylogeny and taxonomy into a comprehensive tree of life. Proceedings of the National Academy of Sciences, 112(41), 12764-12769. [doi:10.1073/pnas.1423041112](http://dx.doi.org/10.1073/pnas.1423041112). In the Altmetrics Top 100 for 2015 and in top 5% overall;  [https://www.altmetric.com/details/4529894]()
+Hinchliff, C. E., Smith, S. A., Allman, J. F., Burleigh, J. G., Chaudhary, R., Coghill, L. M., ... & Cranston, K. A. (2015). Synthesis of phylogeny and taxonomy into a comprehensive tree of life. Proceedings of the National Academy of Sciences, 112(41), 12764-12769. [doi:10.1073/pnas.1423041112](http://dx.doi.org/10.1073/pnas.1423041112). 
 
 Ksepka, D.T., Parham, J.F., Allman, J.F., Benton, M.J., Carrano, M.T., Cranston, K.A., ... & Warnock, R.C.M. (2015) The Fossil Calibration Database, A New Resource for Divergence Dating. Systematic Biology. [doi:10.1093/sysbio/syv025](http://dx.doi.org/10.1093/sysbio/syv025)
 

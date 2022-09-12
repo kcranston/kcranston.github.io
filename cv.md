@@ -1,10 +1,14 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 permalink: /cv/
 ---
 
 # Current and past positions:
+
+2022-present: **Staff Scientist**, UHN DATA team / CanDIG project, Toronto ON. 
+
+2021-2022: **Technical Project Manager**, UHN DATA team / CanDIG project, Toronto ON. 
 
 2018-present: **Independent contractor** , Development of open source software and infrastructure to support academic research and teaching.
 
