@@ -4,7 +4,7 @@ title: Contracting
 permalink: /contracting/
 ---
 
-Since late 2019, I've been working as an independent contractor. My areas of
+I occasionally do software development work as an independent contractor. My areas of
 interest are software and infrastructure development in support of scientific
 research and teaching. Skills include:
 
@@ -14,7 +14,7 @@ research and teaching. Skills include:
 * Ansible deployment
 * JupyterHub and Kubernetes
 
-**Current clients**
+**Previous clients**
 
 * University of Kansas, Open Tree of Life (https://github.com/opentreeoflife) - python development (web application in Pyramids + PostgreSQL,  scripting) and Ansible deployment}
 
